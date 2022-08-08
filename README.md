@@ -26,11 +26,20 @@ Aplicação de controle de tarefas no estilo **to-do-list**, que contém as segu
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
 
+Versão Mobile: [Todo List App](https://github.com/italoalvesdev/todo-list-app)
+
 ## 🔧 Tecnologias
 
 - Vite
 - ReactJS
 - TypeScript
+- CSS Modules
+- Phosphor Icons
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+
 
 ## :octocat: Instalação
 Para clonar o repositório
